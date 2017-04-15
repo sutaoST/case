@@ -1,0 +1,471 @@
+*{
+	cursor: pointer;
+}
+.header{
+	border-radius: 0px;
+	margin-bottom: 0px;
+}
+.drawer{
+	color: #fff;
+	line-height: 50px;
+}
+.login a{
+	color: #888888;
+	line-height: 50px;
+	float: left;
+}
+.login a:hover{
+	color: #fff;
+	text-decoration: none;
+}
+#cons{
+	margin-left: 10px;
+}
+#cons:hover{
+	color: #fff;
+}
+.logins{
+	color: #888888;
+	float: left;
+	line-height: 50px;
+	margin-left: 15px;
+	margin-right: 15px;
+}
+.head{
+	width: 100%;
+	height: 50px;
+}
+.phone-number{
+	color: #aaaaaa;
+	line-height: 50px;
+	float: left;
+}
+#phone{
+	margin-left: 20px;
+}
+.mailer{
+	margin-left: 30px;
+}
+.pics{
+	line-height: 50px;
+	color: #aaaaaa;
+	float: left;
+	margin-left: 10px;
+}
+#icn{
+	font-size: 10px;
+}
+.car{
+	float: right;
+}
+#shopping-car{
+	margin-left: 15px;
+}
+.pics span:hover{
+	color: #333333;
+}
+.menu{
+	width: 100%;
+	height: 120px;
+}
+.logo{
+	width: 130px;
+	height: 120px;
+	line-height: 120px;
+}
+.menus{
+	width: 400px;
+	height: 120px;
+	margin:0 auto;
+}
+.menus ul li{
+	float: left;
+	width: 80px;
+	height: 120px;
+	line-height: 120px;
+	text-align: center;
+	font-size: 12px;
+}
+.menus ul li a{
+	color: #000;
+}
+.menus ul li a:hover{
+	color: #94DDEB;
+	text-decoration: none;
+}
+.search{
+	width: 100px;
+	height: 120px;
+	float: right;
+}
+.find{
+	float: left;
+	line-height: 120px;
+	margin-left: 30px;
+	color: #000;
+}
+#banners{
+	padding-left: 0px;
+	padding-right: 0px;
+}
+.banner img{
+	width: 100%;
+	height: auto;
+	background-position: center;
+	/*background: url('../image/banner.png') no-repeat center;*/
+}
+.team{
+	height:700px;
+}
+.who{
+	margin-top: 90px;
+	font-weight: 600;
+	font-size: 14px;
+	height: 15px;
+}
+.say{
+	height: 35px;
+	line-height: 35px;
+	font-size: 36px;
+	margin-top: 30px;
+}
+.lorem{
+	height: 65px;
+	font-size: 13px;
+	margin-top: 45px;
+	color: #ABABAB;
+	margin-bottom: 70px;
+}
+.phone img{
+	width: 100%;
+	height: auto;
+	background-position: center;
+	}
+.lorems{
+	margin-top: 80px;
+}
+#icons-gy{
+	font-size: 35px;
+	display: block;
+	text-align: center;
+}
+.articl{
+	font-size: 14px;
+	height: 20px;
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
+.reader{
+	font-size: 13px;
+	color: #959595;
+}
+.anna{
+	margin-top: 80px;
+}
+#igs{
+	width: 100%;
+	height: 360px;
+	position: relative;
+}
+.ig {
+  position: absolute;
+  top:0;
+  left:0;
+}
+.ig  img{
+	width: 100%;
+	height: 360px;
+	background-position: center;
+}
+#tabs{
+	position:absolute;
+	width: 45px;
+	height: 10px;
+	left: 0;
+	right: 0;
+	bottom: 60px;
+	margin:0 auto;
+}
+.tab{
+  float: left;
+  text-align: center;
+  line-height: 20px;
+  width: 11px;
+  height: 10px;
+  cursor: pointer;
+  overflow: hidden;
+  margin-right: 4px;
+  border-radius: 100%;
+  background-color:#888;
+}
+.bg{
+    background: #fff;
+}
+.features{
+	height: 30px;
+	line-height: 30px;
+	font-size: 14px;
+}
+#icon-features{
+	font-size: 25px;
+	margin-right: 15px;
+}
+.lores{
+	width: 250px;
+	margin-top: 20px;
+	color: #878787;
+}
+.number{
+	padding: 95px 0;
+	background-color: #F3F3F3;
+}
+.numbers{
+	font-size: 40px;
+}
+.number-intro{
+	font-size: 13px;
+}
+.boxs{
+	width: 255px;
+	height: 200px;
+	margin:0 auto;
+	background:#E1E1E1; 
+}
+.view{
+	width: 255px;
+	height: 200px;
+	padding: 80px 63px;
+	display: none;
+}
+.styles{
+	width: 35px;
+	height: 35px;
+	float: left;
+	margin-left: 5px;
+	border-radius: 35px;
+	background-color: #888888;
+}
+.styles:hover{
+	background-color: #fff;
+}
+#icon-peaple{
+	line-height: 35px;
+	color: #fff;
+	text-align: center;
+	display: block;
+	font-size: 26px;
+}
+#icon-peaple:hover{
+	color: #333333;
+}
+.founter{
+	margin-top: 30px;
+	font-size: 13px;
+}
+.cooper{
+	font-size: 14px;
+	margin-top: 20px;
+}
+.proin{
+	color: #868686;
+}
+.hx{
+	width: 33px;
+	height: 3px;
+	margin:15px auto;
+	background-color:#DDDDDD; 
+}
+.percent{
+	font-size: 32px;
+	color: #AAAAAA;
+}
+.progress{
+	width: 200px;
+	height: 10px;
+	margin-top: 25px;
+	background-color:#333333;
+	border-radius: 0px; 
+}
+.yours{
+	width: 370px;
+	height:260px; 
+}
+.lay:hover{
+	color:#87D8E8;
+	font-weight: 600; 
+}
+.connect{
+	width: 100%;
+	height: 550px;
+	margin-top: 50px;
+	background-color: #636363;
+}
+.facebooks{
+	width: 75px;
+	height: 75px;
+	margin:0 auto;
+	border-radius: 75px;
+	background-color: #888888;
+}
+.facebooks:hover{
+	background-color: #fff;
+}
+
+#icon-face{
+	line-height: 75px;
+	color: #fff;
+	text-align: center;
+	display: block;
+	font-size: 45px;
+}
+#icon-face:hover{
+	color: #333333;
+}
+.fac{
+	color: #fff;
+}
+.checks{
+   width: 100%;
+   height: 25px;
+   font-size: 20px;
+   margin-top: 125px;
+}
+.art{
+	clear: both;
+	color: #868686;
+}
+.check-out{
+	width: 150px;
+	height: 40px;
+	background-color: #333333;
+	color: #fff;
+	line-height: 40px;
+	text-align: center;
+	margin-top: 30px;
+}
+.check-img{
+	width: 100%;
+	height: 350px;
+	background: url(../image/img01.png) no-repeat center;
+	margin-top: 100px;
+}
+.footer{
+	width: 100%;
+	background-color:#333333; 
+}
+.bottom-all{
+	width: 100%;
+	height: 220px;
+}
+.footer-img{
+	width: 130px;
+	height: 36px;
+	margin-top: 50px;
+	background: url(../image/logo.png) no-repeat left;
+}
+.footer-arc{
+	color: #fff;
+	margin-top: 30px;
+}
+.bottom{
+	padding-top: 30px;
+	padding-bottom: 70px;
+}
+.additional{
+	color: #fff;
+	margin-top: 50px;
+	padding-left: 30px;
+}
+.hxs{
+	width: 40px;
+	height: 3px;
+	background-color:#555555;
+	margin-left: 30px; 
+	margin-top: 12px;
+	margin-bottom: 10px;
+}
+.alls{
+	height: 25px;
+	line-height: 25px;
+	color: #BDBDBD;
+	padding-left: 30px;
+	clear: both;
+}
+.contacts a{
+	color: #BDBDBD;
+}
+.alls:hover{
+	color: #fff;
+}
+#footer-icons{
+	color: #666666;
+	margin-right: 10px; 
+}
+#footer-icons:hover{
+	color: #fff;
+}
+
+.footer-lists li{
+	width: 70px;
+	height: 70px;
+	background-color: #E1E1E1;
+	float: left;
+	margin-left: 10px;
+	margin-top: 10px;
+}
+.footer-lists{
+	clear: both;
+}
+
+@media (max-width: 980px){
+.connect {
+    height: 645px;}
+}
+@media (max-width: 768px){
+#igs{
+	height:270px; 
+}
+
+.ig img{
+	height: 250px;
+}
+
+}
+
+@media (max-width: 360px){
+.drawer {
+      line-height: 20px;
+	}
+.mailer {
+    margin-left: 10px;}
+.logo {
+    height: 45px;
+	line-height:45px; }
+.menus{
+	width: 330px;
+	height: 75px;}
+.menus ul li{
+	width: 65px;
+	height: 75px;
+	line-height: 75px;}
+.search{
+	height: 30px;
+    float: left;}
+.find{
+	line-height: 30px;}
+.lorem {
+    height: 175px;}
+.lorems {
+    margin-top: 110px;}
+#igs{
+	height:195px; 
+}
+
+.ig img{
+	height: 160px;
+}
+.yours {
+    width: 325px;}
+.connect {
+    height: 900px;}
+}
